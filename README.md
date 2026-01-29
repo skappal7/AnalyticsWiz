@@ -1,4 +1,4 @@
-# Paramount+ Customer Analytics
+# Customer Analytics Wizard
 
 Production-ready Streamlit application for contact center analytics with GDPR-compliant PII redaction.
 
@@ -55,3 +55,4 @@ streamlit run app.py
 ## License
 
 Proprietary - Paramount+ Internal Use Only
+
